@@ -1,0 +1,12 @@
+.ReactModal__Content.Delete__Modal {
+  opacity: 0;
+  transition: opacity 300ms ease-in-out;
+}
+
+.ReactModal__Content--after-open.Delete__Modal{
+  opacity: 1;
+}
+
+.ReactModal__Content--before-close.Delete__Modal{
+  opacity: 0;
+}

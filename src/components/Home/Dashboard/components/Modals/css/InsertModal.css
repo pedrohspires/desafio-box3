@@ -1,0 +1,12 @@
+.ReactModal__Content {
+  right: -83.3%;
+  transition: 300ms ease-in-out;
+}
+
+.ReactModal__Content--after-open{
+  right: 0;
+}
+
+.ReactModal__Content--before-close{
+  right: -83.3%;
+}

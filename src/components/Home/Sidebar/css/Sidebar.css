@@ -1,0 +1,15 @@
+.sidebar, .menu-container {
+  background-color: #5d737e;
+}
+
+.menu-item {
+  color: #fcfcfc;
+}
+
+.menu-item:hover {
+  background-color: #3f4045;
+}
+
+.hamburger:hover {
+  background-color: inherit;
+}
